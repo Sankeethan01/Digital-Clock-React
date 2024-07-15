@@ -1,0 +1,24 @@
+.counter{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    max-width: 500px;
+    border: 1px solid hsl(0, 13%, 83%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(225, 209, 209);
+}
+.display-num{
+    font-size: 80px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.action-button{
+    padding: 10px 20px;
+    margin: 0 10px;
+    margin-bottom: 20px;
+    background: rgba(38, 24, 193, 0.69);
+    border-radius: 5px;
+    border: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
